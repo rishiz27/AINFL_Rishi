@@ -1,5 +1,6 @@
 aiofiles==23.1.0
 appdirs==1.4.4
+scikit-learn>=0.18
 astunparse==1.6.3
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
