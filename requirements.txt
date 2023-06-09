@@ -6,7 +6,6 @@ backports.weakref==1.0.post1
 blinker==1.4
 brotlipy==0.7.0
 certifi==2023.5.7
-clyent==1.2.2
 constantly==15.1.0
 cssselect==1.1.0
 datashape==0.5.4
@@ -20,7 +19,6 @@ llvmlite==0.39.1
 mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
-navigator-updater==0.3.0
 openpyxl==3.0.10
 pandas==1.5.3
 passlib==1.7.4
